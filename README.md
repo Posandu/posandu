@@ -49,8 +49,9 @@ I'm Posandu. A full stack developer and a student. I code and make stuff with Ja
 - DevEnv [https://devenv.tronic247.com/](https://devenv.tronic247.com/)
 - StackFlex (Won $1k from a hackathon) [https://stackflex.tronic247.com/](https://stackflex.tronic247.com/)
 - I also helped some large projects like [Win11React](https://win11.blueedge.me/)
-
-PS: Most of my personal projects is hosted on Github and not above.
+- Helped making [Win11Svelte](https://github.com/yashash-pugalia/win11-svelte)
+- 
+PS: Most of my personal projects is hosted on Github and not listed above.
 
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gr2rav6xfv3jbfsemb5orfw57m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 
@@ -76,42 +77,7 @@ or some SOL - `posandu.sol`
 Buying me a coffee
 <a href="https://www.buymeacoffee.com/posandu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
-
 <br><br>
-
-Here is a treat for reading the README
-```js
-
-                       var 
-                      l="n";
-                    l +=  "e",
-                   l    += "v";
-                  var a= j =>  {
-	            l = l +        j; 
-                return           j;
-                        };
-              (a                   `e`
-                        - 
-                        a 
-               -       `r`  +         6
-                        /
-                        a` `
-           )>>a                        `g`;
-          [["o"],["nna "]].map((e) => e.map(
-         (e                       ) => a(e)));
-        a                                  `g`;
-       if (a`i`) a`ve`  ? a` ` + a`y` : "";a`o`;
-      a(" "             +                  a`u`);
-     a                                        `p`
-                        ;
-                     console
-					    ?.
-                       log
-                       (l)
-```
-
-run this javascript code ^_^
-
 
 ### Follow me:
 
@@ -122,6 +88,8 @@ Twitter - https://twitter.com/posandu
 Linkedin - https://www.linkedin.com/in/posandu/
 
 DEV - https://dev.to/posandu
+
+Instagram - https://instagram.com/posandu___
 
 Hashnode - https://hashnode.com/@posandu
 
