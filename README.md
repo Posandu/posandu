@@ -1,8 +1,8 @@
-# 👋 
+# Hi!👋 
 
 [![@posandu's Holopin board](https://holopin.me/posandu)](https://holopin.io/@posandu)
 
-I'm Posandu. A full stack developer and a student. I code and make stuff with JavaScript, Typescript, Rust and CSS. This GitHub account is for storing all my projects and other experiments. If you like to be updated, follow me 😀.
+I'm Posandu. A full-stack developer and a student. I code and make stuff with JavaScript, Typescript, Rust, and CSS. This GitHub account is for storing all my projects and other experiments.
 
 <a href="https://github.com/Posandu">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/posandu?style=social">
@@ -28,7 +28,7 @@ I'm Posandu. A full stack developer and a student. I code and make stuff with Ja
 
 ## I use
 
-- VS Code, Sublime and Vim as the text editor
+- VS Code, Sublime, and Vim as the text editor
 - Windows / Ubuntu as the operating system
 - GitHub for hosting code
 - WordPress for blogging (https://www.tronic247.com/)
@@ -38,9 +38,9 @@ I'm Posandu. A full stack developer and a student. I code and make stuff with Ja
 ## Contact
 
 - Email: posandumapa@gmail.com
-- Discord: Posandu#4040
+- Discord: `@posandu` (RIP #4040)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/961161387101536296)](https://discord.com/users/961161387101536296)
+[![Discord Presence](https://lanyard.cnrad.dev/api/961161387101536296)](https://youtube.com/watch?v=dqw4w9wgxcq)
 
 ## What I've done
 
@@ -48,16 +48,16 @@ I'm Posandu. A full stack developer and a student. I code and make stuff with Ja
 - Tronic247 Material https://material.tronic247.com/
 - DevEnv [https://devenv.tronic247.com/](https://devenv.tronic247.com/)
 - StackFlex (Won $1k from a hackathon) [https://stackflex.tronic247.com/](https://stackflex.tronic247.com/)
-- I also helped some large projects like [Win11React](https://win11.blueedge.me/)
-- Helped making [Win11Svelte](https://github.com/yashash-pugalia/win11-svelte)
-- 
-PS: Most of my personal projects is hosted on Github and not listed above.
+- Team member of [Win11React](https://win11.blueedge.me/)
+- Team member of [Win11Svelte](https://github.com/yashash-pugalia/win11-svelte)
+
+PS: Most of my projects are hosted on GitHub and not listed above.
 
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31gr2rav6xfv3jbfsemb5orfw57m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 
 ## Reading stats
 
-I love to stay updated with the latest tech trends, here are my daily.dev stats.
+I love to stay updated with the latest tech trends, and here is my daily.dev stats.
 <img src="https://api.daily.dev/devcards/bc577391486143969f5b3b599b499632.png?r=sp8" width=200/>
 
 ## Github activity
@@ -72,16 +72,16 @@ I love to stay updated with the latest tech trends, here are my daily.dev stats.
 ## Support me
 Like my work? You can support me by:
 
-Send some ETH - `posandu.eth`
-or some SOL - `posandu.sol`
-Buying me a coffee
-<a href="https://www.buymeacoffee.com/posandu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
+Send some ETH - `posandu.eth` or `0x9486DD60CE06C694aeb36208FD8b8a33225614Af` <br>
+or some SOL - `posandu.sol` or `HWFvo1CCgeVwae3E7NvWfpH89mmzReRboKMfqzBWawpa`
 
-<br><br>
+Buying me a virtual coffee
+
+<a href="https://www.buymeacoffee.com/posandu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 ### Follow me:
 
-Github - (here)
+GitHub - (here)
 
 Twitter - https://twitter.com/posandu
 
@@ -89,10 +89,10 @@ Linkedin - https://www.linkedin.com/in/posandu/
 
 DEV - https://dev.to/posandu
 
-Instagram - https://instagram.com/posandu___
+Instagram - https://instagram.com/posanduu
 
 Hashnode - https://hashnode.com/@posandu
 
 Read my articles 🥰 - https://www.tronic247.com/
 
-And you should live happily and safe! 
+And you should live happily and safely! 
