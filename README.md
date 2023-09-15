@@ -95,4 +95,4 @@ Hashnode - https://hashnode.com/@posandu
 
 Read my articles 🥰 - https://www.tronic247.com/
 
-And you should live happily and safely! 
+Peace ✌️
