@@ -25,9 +25,6 @@ SOL - `posandu.sol` or `HWFvo1CCgeVwae3E7NvWfpH89mmzReRboKMfqzBWawpa`
 Send some ETH - `0x9486DD60CE06C694aeb36208FD8b8a33225614Af` <br>
 Sponsor me on Github! <be>
 
-```math
-
-
 
 Buying me a virtual coffee
 
@@ -35,4 +32,7 @@ Buying me a virtual coffee
 
 Read my articles 🥰 - https://www.tronic247.com/
 
+```math
+
 Peace ✌️
+
