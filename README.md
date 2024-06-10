@@ -26,7 +26,7 @@ Send some ETH - `0x9486DD60CE06C694aeb36208FD8b8a33225614Af` <br>
 Sponsor me on Github! <be>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/younesbram/younesbram/main/matrix.gif');]{x0000}$}
+
 
 
 Buying me a virtual coffee
