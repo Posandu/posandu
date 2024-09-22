@@ -26,7 +26,7 @@ Email me at posandumapa@gmail.com
 
 ## Stuff I'm proud of
 
-- Won a hackathon hosted by Hashnode
+- Won 2 hackathons hosted by Hashnode
 - Contributed to large projects like Win11React
 - One of my articles was mentioned in Svelte's official blog
 - https://www.tronic247.com
