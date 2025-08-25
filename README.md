@@ -5,7 +5,7 @@ You can find me mostly building web apps with Svelte and sometimes playing with 
 ## Notable Achievements
 
 - Won 2 hackathons hosted by Hashnode.
-- Manage the software infrastructure for 2 Sri Lankan businesses.
+- Manage the software infrastructure for 2 businesses.
 - Worked with leading experts in business and crypto.
 - Contributed to several large projects like Svelte & Win11React.
 - Two of my articles were mentioned in Svelte's official blog.
